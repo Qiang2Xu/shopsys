@@ -105,7 +105,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'zh-hans'	# 'en-us'
 
-TIME_ZONE = 'China/Shanghai'			# 'UTC'
+TIME_ZONE = 'Asia/Shanghai'			# 'UTC'
 
 USE_I18N = True
 
